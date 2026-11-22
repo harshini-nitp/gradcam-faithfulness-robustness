@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model checkpoints and datasets
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.keras
+*.safetensors/
+dataset/
+datasets/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db

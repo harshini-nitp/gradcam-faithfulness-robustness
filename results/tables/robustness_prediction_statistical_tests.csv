@@ -1,0 +1,10 @@
+Transformation,Model_A,Model_B,Preserved_A_only,Preserved_B_only,McNemar_p,Images_Paired,Holm_p,Significant
+Brightness,Partial ViT,Deep-head ViT,1,0,1.0,50,1.0,False
+Brightness,Partial ViT,Swin Transformer,0,0,1.0,50,1.0,False
+Brightness,Deep-head ViT,Swin Transformer,0,1,1.0,50,1.0,False
+Gaussian Noise,Partial ViT,Deep-head ViT,1,0,1.0,50,1.0,False
+Gaussian Noise,Partial ViT,Swin Transformer,11,1,0.00634765625,50,0.05712890625,False
+Gaussian Noise,Deep-head ViT,Swin Transformer,11,2,0.0224609375,50,0.1796875,False
+Gaussian Blur,Partial ViT,Deep-head ViT,2,1,1.0,50,1.0,False
+Gaussian Blur,Partial ViT,Swin Transformer,5,1,0.21875,50,1.0,False
+Gaussian Blur,Deep-head ViT,Swin Transformer,5,2,0.453125,50,1.0,False

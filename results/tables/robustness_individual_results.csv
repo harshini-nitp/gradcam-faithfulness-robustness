@@ -1,0 +1,451 @@
+Model,Image_Index,Transformation,SSIM
+Partial ViT,269,Brightness,0.9882702643424711
+Partial ViT,269,Gaussian Noise,0.8476098077433857
+Partial ViT,269,Gaussian Blur,0.896642673630012
+Partial ViT,335,Brightness,0.9685492501008179
+Partial ViT,335,Gaussian Noise,0.4205582980487448
+Partial ViT,335,Gaussian Blur,0.4871767609443081
+Partial ViT,296,Brightness,0.9686725920376417
+Partial ViT,296,Gaussian Noise,0.4243068690051522
+Partial ViT,296,Gaussian Blur,0.8753833565939199
+Partial ViT,58,Brightness,0.9972060234854593
+Partial ViT,58,Gaussian Noise,0.8344607986255133
+Partial ViT,58,Gaussian Blur,0.8662065535070892
+Partial ViT,537,Brightness,0.937706554705453
+Partial ViT,537,Gaussian Noise,0.13088371179218042
+Partial ViT,537,Gaussian Blur,0.7813123281165966
+Partial ViT,666,Brightness,0.9662805350854655
+Partial ViT,666,Gaussian Noise,0.0544832240427054
+Partial ViT,666,Gaussian Blur,0.828836468731193
+Partial ViT,427,Brightness,0.9055337971327994
+Partial ViT,427,Gaussian Noise,0.4392513744731765
+Partial ViT,427,Gaussian Blur,0.29948819671994414
+Partial ViT,682,Brightness,0.9563775242764624
+Partial ViT,682,Gaussian Noise,0.719791938111743
+Partial ViT,682,Gaussian Blur,0.7391728606958583
+Partial ViT,187,Brightness,0.888905832681461
+Partial ViT,187,Gaussian Noise,0.1930615039425148
+Partial ViT,187,Gaussian Blur,0.7358738389371388
+Partial ViT,306,Brightness,0.9467398632347602
+Partial ViT,306,Gaussian Noise,0.5463881096078694
+Partial ViT,306,Gaussian Blur,0.148224504872273
+Partial ViT,241,Brightness,0.8839766493110777
+Partial ViT,241,Gaussian Noise,0.3046696104322124
+Partial ViT,241,Gaussian Blur,0.33866449805886195
+Partial ViT,688,Brightness,0.9650769359318618
+Partial ViT,688,Gaussian Noise,0.8391601315516627
+Partial ViT,688,Gaussian Blur,0.6391401844105941
+Partial ViT,279,Brightness,0.9569161946101177
+Partial ViT,279,Gaussian Noise,0.08380821194688041
+Partial ViT,279,Gaussian Blur,0.3257819476768266
+Partial ViT,49,Brightness,0.8955194699991599
+Partial ViT,49,Gaussian Noise,0.6548565725976105
+Partial ViT,49,Gaussian Blur,0.5521393522143184
+Partial ViT,513,Brightness,0.8979213391240096
+Partial ViT,513,Gaussian Noise,0.7518662768248561
+Partial ViT,513,Gaussian Blur,0.7639769195249391
+Partial ViT,340,Brightness,0.9741795911937237
+Partial ViT,340,Gaussian Noise,0.06372217563252894
+Partial ViT,340,Gaussian Blur,0.7564285501397323
+Partial ViT,329,Brightness,0.9370622662338234
+Partial ViT,329,Gaussian Noise,0.6832033067054041
+Partial ViT,329,Gaussian Blur,0.8722142495239107
+Partial ViT,516,Brightness,0.9564566470779978
+Partial ViT,516,Gaussian Noise,0.8418530037489095
+Partial ViT,516,Gaussian Blur,0.92058134640649
+Partial ViT,132,Brightness,0.8670471386288365
+Partial ViT,132,Gaussian Noise,0.15790019649723896
+Partial ViT,132,Gaussian Blur,0.749463023276149
+Partial ViT,655,Brightness,0.9585088794526879
+Partial ViT,655,Gaussian Noise,0.7393711393608521
+Partial ViT,655,Gaussian Blur,0.7380437234393694
+Partial ViT,373,Brightness,0.944290113895843
+Partial ViT,373,Gaussian Noise,0.5006570372346848
+Partial ViT,373,Gaussian Blur,0.771381337622805
+Partial ViT,546,Brightness,0.9837539110460656
+Partial ViT,546,Gaussian Noise,0.5857542097371956
+Partial ViT,546,Gaussian Blur,0.5249756404409244
+Partial ViT,115,Brightness,0.42869077733663635
+Partial ViT,115,Gaussian Noise,0.5479703810953422
+Partial ViT,115,Gaussian Blur,0.26117690926834974
+Partial ViT,447,Brightness,0.44378011317443466
+Partial ViT,447,Gaussian Noise,0.33875081019063935
+Partial ViT,447,Gaussian Blur,0.3891344774434593
+Partial ViT,596,Brightness,0.8906064147876513
+Partial ViT,596,Gaussian Noise,0.6104499040551455
+Partial ViT,596,Gaussian Blur,0.5988617056697046
+Partial ViT,613,Brightness,0.8920265120768682
+Partial ViT,613,Gaussian Noise,0.07741908413620462
+Partial ViT,613,Gaussian Blur,0.08495873343732997
+Partial ViT,282,Brightness,0.5988907942746606
+Partial ViT,282,Gaussian Noise,0.5657732150401642
+Partial ViT,282,Gaussian Blur,0.470866425474382
+Partial ViT,63,Brightness,0.9780179015997672
+Partial ViT,63,Gaussian Noise,0.4717652313210311
+Partial ViT,63,Gaussian Blur,0.741962260918366
+Partial ViT,549,Brightness,0.9216498459752265
+Partial ViT,549,Gaussian Noise,0.7178797797562457
+Partial ViT,549,Gaussian Blur,0.7581523956936276
+Partial ViT,611,Brightness,0.9932920618833877
+Partial ViT,611,Gaussian Noise,0.9822666699200566
+Partial ViT,611,Gaussian Blur,0.9286601706292946
+Partial ViT,428,Brightness,0.9645671198745477
+Partial ViT,428,Gaussian Noise,0.5602182042489727
+Partial ViT,428,Gaussian Blur,0.4875598753696565
+Partial ViT,417,Brightness,0.6019594981402124
+Partial ViT,417,Gaussian Noise,0.4470601794811712
+Partial ViT,417,Gaussian Blur,0.43855215348377014
+Partial ViT,474,Brightness,0.9730781278704747
+Partial ViT,474,Gaussian Noise,0.5858186460288416
+Partial ViT,474,Gaussian Blur,0.7389257945958596
+Partial ViT,301,Brightness,0.9437088522027406
+Partial ViT,301,Gaussian Noise,0.4749360750679678
+Partial ViT,301,Gaussian Blur,0.20778853809468992
+Partial ViT,632,Brightness,0.9871899531070103
+Partial ViT,632,Gaussian Noise,0.7474302019749487
+Partial ViT,632,Gaussian Blur,0.7136009825991013
+Partial ViT,464,Brightness,0.9692001125173496
+Partial ViT,464,Gaussian Noise,0.7159393661050281
+Partial ViT,464,Gaussian Blur,0.8028236650478433
+Partial ViT,45,Brightness,0.9430824037631567
+Partial ViT,45,Gaussian Noise,0.5593596503385115
+Partial ViT,45,Gaussian Blur,0.8312277755524583
+Partial ViT,493,Brightness,0.9689219130838694
+Partial ViT,493,Gaussian Noise,0.71076581926408
+Partial ViT,493,Gaussian Blur,0.813180015591184
+Partial ViT,297,Brightness,0.9981240549128462
+Partial ViT,297,Gaussian Noise,0.3372907194661079
+Partial ViT,297,Gaussian Blur,0.8616825862784043
+Partial ViT,577,Brightness,0.9123565519745779
+Partial ViT,577,Gaussian Noise,0.08228009798952526
+Partial ViT,577,Gaussian Blur,0.5538971388337153
+Partial ViT,363,Brightness,0.9785315220462695
+Partial ViT,363,Gaussian Noise,0.8944413407171102
+Partial ViT,363,Gaussian Blur,0.876517296405993
+Partial ViT,153,Brightness,0.8688760838581802
+Partial ViT,153,Gaussian Noise,0.7539780012494334
+Partial ViT,153,Gaussian Blur,0.8134563231478777
+Partial ViT,57,Brightness,0.9577148204974911
+Partial ViT,57,Gaussian Noise,0.4443218463655403
+Partial ViT,57,Gaussian Blur,0.5951551339970764
+Partial ViT,517,Brightness,0.7412723193291022
+Partial ViT,517,Gaussian Noise,0.6758617409811958
+Partial ViT,517,Gaussian Blur,0.2631098654750595
+Partial ViT,492,Brightness,0.9775039387209811
+Partial ViT,492,Gaussian Noise,0.8389803225531066
+Partial ViT,492,Gaussian Blur,0.8170358510160999
+Partial ViT,122,Brightness,0.9883444387559467
+Partial ViT,122,Gaussian Noise,0.9257720878206831
+Partial ViT,122,Gaussian Blur,0.8987410630551956
+Partial ViT,243,Brightness,0.9907884926454215
+Partial ViT,243,Gaussian Noise,0.7907438539123085
+Partial ViT,243,Gaussian Blur,0.7399002835090923
+Partial ViT,84,Brightness,0.9127541149822734
+Partial ViT,84,Gaussian Noise,0.7870263858231473
+Partial ViT,84,Gaussian Blur,0.7300690824987417
+Partial ViT,62,Brightness,0.9016453268164013
+Partial ViT,62,Gaussian Noise,0.5322102126660104
+Partial ViT,62,Gaussian Blur,0.521705473972352
+Partial ViT,557,Brightness,0.9638442263553841
+Partial ViT,557,Gaussian Noise,0.7905181897670356
+Partial ViT,557,Gaussian Blur,0.7878789772609133
+Deep-head ViT,269,Brightness,0.9871408359506858
+Deep-head ViT,269,Gaussian Noise,0.8825194612907694
+Deep-head ViT,269,Gaussian Blur,0.2247546035344689
+Deep-head ViT,335,Brightness,0.7918980219288492
+Deep-head ViT,335,Gaussian Noise,0.22994020266345816
+Deep-head ViT,335,Gaussian Blur,0.7281009774803882
+Deep-head ViT,296,Brightness,0.9701861234027346
+Deep-head ViT,296,Gaussian Noise,0.6971649847136095
+Deep-head ViT,296,Gaussian Blur,0.834367298565215
+Deep-head ViT,58,Brightness,0.3563630008043574
+Deep-head ViT,58,Gaussian Noise,0.3353056973606005
+Deep-head ViT,58,Gaussian Blur,0.28501569416175454
+Deep-head ViT,537,Brightness,0.8580747775128761
+Deep-head ViT,537,Gaussian Noise,0.7430084106712637
+Deep-head ViT,537,Gaussian Blur,0.4290913224082561
+Deep-head ViT,666,Brightness,0.9939390585803491
+Deep-head ViT,666,Gaussian Noise,0.5475135900079592
+Deep-head ViT,666,Gaussian Blur,0.8410612051639196
+Deep-head ViT,427,Brightness,0.6884317905479438
+Deep-head ViT,427,Gaussian Noise,0.5301031893008624
+Deep-head ViT,427,Gaussian Blur,0.4049230489361975
+Deep-head ViT,682,Brightness,0.9468479269422392
+Deep-head ViT,682,Gaussian Noise,0.7850660894038307
+Deep-head ViT,682,Gaussian Blur,0.8166336005498833
+Deep-head ViT,187,Brightness,0.9240577865515542
+Deep-head ViT,187,Gaussian Noise,0.6372826439903464
+Deep-head ViT,187,Gaussian Blur,0.6667207587607465
+Deep-head ViT,306,Brightness,0.8918750158576713
+Deep-head ViT,306,Gaussian Noise,0.5161761852030377
+Deep-head ViT,306,Gaussian Blur,0.5576683299473829
+Deep-head ViT,241,Brightness,0.9793947991522247
+Deep-head ViT,241,Gaussian Noise,0.06014078687479846
+Deep-head ViT,241,Gaussian Blur,0.19571360805224214
+Deep-head ViT,688,Brightness,0.9159392441706141
+Deep-head ViT,688,Gaussian Noise,0.8123416213600833
+Deep-head ViT,688,Gaussian Blur,0.49435124151738685
+Deep-head ViT,279,Brightness,0.2926959450245225
+Deep-head ViT,279,Gaussian Noise,0.17703354867228288
+Deep-head ViT,279,Gaussian Blur,0.2032629116807341
+Deep-head ViT,49,Brightness,0.9467953503855263
+Deep-head ViT,49,Gaussian Noise,0.6077710185405871
+Deep-head ViT,49,Gaussian Blur,-0.03760407278833937
+Deep-head ViT,513,Brightness,0.9540522694566564
+Deep-head ViT,513,Gaussian Noise,0.9204359204559995
+Deep-head ViT,513,Gaussian Blur,0.6669605427255325
+Deep-head ViT,340,Brightness,0.9950062439627002
+Deep-head ViT,340,Gaussian Noise,0.7836692818953722
+Deep-head ViT,340,Gaussian Blur,0.7671633437024372
+Deep-head ViT,329,Brightness,0.9229223148940072
+Deep-head ViT,329,Gaussian Noise,0.6312863642627737
+Deep-head ViT,329,Gaussian Blur,0.09097785139827907
+Deep-head ViT,516,Brightness,0.9874247128165698
+Deep-head ViT,516,Gaussian Noise,0.8342386577572856
+Deep-head ViT,516,Gaussian Blur,0.8027685752480169
+Deep-head ViT,132,Brightness,0.8884595242760485
+Deep-head ViT,132,Gaussian Noise,0.0605180129905076
+Deep-head ViT,132,Gaussian Blur,0.09912783536733584
+Deep-head ViT,655,Brightness,0.9699521777792863
+Deep-head ViT,655,Gaussian Noise,0.8599268896293356
+Deep-head ViT,655,Gaussian Blur,0.9319910001203643
+Deep-head ViT,373,Brightness,0.5811157779742538
+Deep-head ViT,373,Gaussian Noise,0.4993305473849372
+Deep-head ViT,373,Gaussian Blur,0.49857786981393465
+Deep-head ViT,546,Brightness,0.8468733934114666
+Deep-head ViT,546,Gaussian Noise,0.2499986765575797
+Deep-head ViT,546,Gaussian Blur,0.6915835362486329
+Deep-head ViT,115,Brightness,0.987587702403129
+Deep-head ViT,115,Gaussian Noise,0.7640418465362182
+Deep-head ViT,115,Gaussian Blur,0.8108039585334245
+Deep-head ViT,447,Brightness,0.9825075824325077
+Deep-head ViT,447,Gaussian Noise,0.18357527364009993
+Deep-head ViT,447,Gaussian Blur,0.784150487349652
+Deep-head ViT,596,Brightness,0.9475650982170897
+Deep-head ViT,596,Gaussian Noise,0.39233950136926166
+Deep-head ViT,596,Gaussian Blur,0.6515422046199908
+Deep-head ViT,613,Brightness,0.9933823950914168
+Deep-head ViT,613,Gaussian Noise,0.18064481925517303
+Deep-head ViT,613,Gaussian Blur,0.49696935533841197
+Deep-head ViT,282,Brightness,0.9881114187317157
+Deep-head ViT,282,Gaussian Noise,0.9638304208190456
+Deep-head ViT,282,Gaussian Blur,0.7988402132812371
+Deep-head ViT,63,Brightness,0.9733467267940018
+Deep-head ViT,63,Gaussian Noise,0.7178555766346053
+Deep-head ViT,63,Gaussian Blur,0.7607776351686262
+Deep-head ViT,549,Brightness,0.8797472003540444
+Deep-head ViT,549,Gaussian Noise,0.7168574539165571
+Deep-head ViT,549,Gaussian Blur,0.7517050880882261
+Deep-head ViT,611,Brightness,0.9997854797805603
+Deep-head ViT,611,Gaussian Noise,0.9985162490594268
+Deep-head ViT,611,Gaussian Blur,0.9742345300558235
+Deep-head ViT,428,Brightness,0.8964481579699359
+Deep-head ViT,428,Gaussian Noise,0.7586882063262179
+Deep-head ViT,428,Gaussian Blur,0.17729924762048155
+Deep-head ViT,417,Brightness,0.9886929373340031
+Deep-head ViT,417,Gaussian Noise,0.8064105673929206
+Deep-head ViT,417,Gaussian Blur,0.8303648177729144
+Deep-head ViT,474,Brightness,0.8871683326089145
+Deep-head ViT,474,Gaussian Noise,0.49278876326387566
+Deep-head ViT,474,Gaussian Blur,0.08299297404645463
+Deep-head ViT,301,Brightness,0.8340506119439197
+Deep-head ViT,301,Gaussian Noise,0.04951196983680267
+Deep-head ViT,301,Gaussian Blur,0.2861748238614159
+Deep-head ViT,632,Brightness,0.986788270711885
+Deep-head ViT,632,Gaussian Noise,0.8458652411371008
+Deep-head ViT,632,Gaussian Blur,0.7270429834199621
+Deep-head ViT,464,Brightness,0.9662061238740737
+Deep-head ViT,464,Gaussian Noise,0.7733295547050854
+Deep-head ViT,464,Gaussian Blur,0.32249615897068235
+Deep-head ViT,45,Brightness,0.8785220153111482
+Deep-head ViT,45,Gaussian Noise,0.25953014681973935
+Deep-head ViT,45,Gaussian Blur,0.27284878783097205
+Deep-head ViT,493,Brightness,0.8970953507917119
+Deep-head ViT,493,Gaussian Noise,0.03575317649515115
+Deep-head ViT,493,Gaussian Blur,0.3328949840765312
+Deep-head ViT,297,Brightness,0.5170349766029468
+Deep-head ViT,297,Gaussian Noise,0.4019215998198406
+Deep-head ViT,297,Gaussian Blur,0.4589668811778401
+Deep-head ViT,577,Brightness,0.9427895641625412
+Deep-head ViT,577,Gaussian Noise,0.24953458830144618
+Deep-head ViT,577,Gaussian Blur,0.0674556684419211
+Deep-head ViT,363,Brightness,0.9731561708239047
+Deep-head ViT,363,Gaussian Noise,0.7288801022217085
+Deep-head ViT,363,Gaussian Blur,0.7365756465314851
+Deep-head ViT,153,Brightness,0.9875085634177767
+Deep-head ViT,153,Gaussian Noise,0.47852193730120146
+Deep-head ViT,153,Gaussian Blur,0.22608116215705965
+Deep-head ViT,57,Brightness,0.8814966559050139
+Deep-head ViT,57,Gaussian Noise,0.3572104586342213
+Deep-head ViT,57,Gaussian Blur,0.14759008348513755
+Deep-head ViT,517,Brightness,0.9954795868180435
+Deep-head ViT,517,Gaussian Noise,0.9239604676946739
+Deep-head ViT,517,Gaussian Blur,0.9002597801964594
+Deep-head ViT,492,Brightness,0.987472943781956
+Deep-head ViT,492,Gaussian Noise,0.9607548995959904
+Deep-head ViT,492,Gaussian Blur,0.8698880454165976
+Deep-head ViT,122,Brightness,0.7747570790236655
+Deep-head ViT,122,Gaussian Noise,0.18229803287381535
+Deep-head ViT,122,Gaussian Blur,0.5657441390841187
+Deep-head ViT,243,Brightness,0.923625655279793
+Deep-head ViT,243,Gaussian Noise,0.7483360066841951
+Deep-head ViT,243,Gaussian Blur,0.5754057055847243
+Deep-head ViT,84,Brightness,0.9781684771652986
+Deep-head ViT,84,Gaussian Noise,0.7381304756668845
+Deep-head ViT,84,Gaussian Blur,0.7662875157455544
+Deep-head ViT,62,Brightness,0.9777090946110036
+Deep-head ViT,62,Gaussian Noise,0.7270047466819348
+Deep-head ViT,62,Gaussian Blur,0.7516082275814141
+Deep-head ViT,557,Brightness,0.9345744153422364
+Deep-head ViT,557,Gaussian Noise,0.7111245234494975
+Deep-head ViT,557,Gaussian Blur,0.7205315681426216
+Swin Transformer,269,Brightness,0.9972474237198621
+Swin Transformer,269,Gaussian Noise,0.38682940526248494
+Swin Transformer,269,Gaussian Blur,0.7234748766101288
+Swin Transformer,335,Brightness,0.9940531905848674
+Swin Transformer,335,Gaussian Noise,0.8141115831574771
+Swin Transformer,335,Gaussian Blur,0.6923874406193672
+Swin Transformer,296,Brightness,0.9845535613915634
+Swin Transformer,296,Gaussian Noise,0.7309255796377523
+Swin Transformer,296,Gaussian Blur,0.6383889220521726
+Swin Transformer,58,Brightness,0.9901714846548253
+Swin Transformer,58,Gaussian Noise,0.7159707888827737
+Swin Transformer,58,Gaussian Blur,0.8095818262610905
+Swin Transformer,537,Brightness,0.997205202288624
+Swin Transformer,537,Gaussian Noise,0.6854863661267034
+Swin Transformer,537,Gaussian Blur,0.7046090735044722
+Swin Transformer,666,Brightness,0.994138142968978
+Swin Transformer,666,Gaussian Noise,0.8124524609668485
+Swin Transformer,666,Gaussian Blur,0.727902675867294
+Swin Transformer,427,Brightness,0.9814081379419304
+Swin Transformer,427,Gaussian Noise,0.7551699664733118
+Swin Transformer,427,Gaussian Blur,0.4865796499536073
+Swin Transformer,682,Brightness,0.995190804307032
+Swin Transformer,682,Gaussian Noise,0.7489378300871942
+Swin Transformer,682,Gaussian Blur,0.8642179072122714
+Swin Transformer,187,Brightness,0.9970973800548288
+Swin Transformer,187,Gaussian Noise,0.6654231321744613
+Swin Transformer,187,Gaussian Blur,0.6828064117138596
+Swin Transformer,306,Brightness,0.9880717572524946
+Swin Transformer,306,Gaussian Noise,0.39486960678121025
+Swin Transformer,306,Gaussian Blur,0.6328732364589275
+Swin Transformer,241,Brightness,0.9944827130771268
+Swin Transformer,241,Gaussian Noise,0.827462474233363
+Swin Transformer,241,Gaussian Blur,0.5727154226173532
+Swin Transformer,688,Brightness,0.992230717966617
+Swin Transformer,688,Gaussian Noise,0.5220125058345525
+Swin Transformer,688,Gaussian Blur,0.73473923830669
+Swin Transformer,279,Brightness,0.9925790440265142
+Swin Transformer,279,Gaussian Noise,0.5441968690362009
+Swin Transformer,279,Gaussian Blur,0.655633376240278
+Swin Transformer,49,Brightness,0.9979170472628841
+Swin Transformer,49,Gaussian Noise,0.7437357493830002
+Swin Transformer,49,Gaussian Blur,0.7674339822794608
+Swin Transformer,513,Brightness,0.9800271720005179
+Swin Transformer,513,Gaussian Noise,0.587697659015708
+Swin Transformer,513,Gaussian Blur,0.6269217792800197
+Swin Transformer,340,Brightness,0.9995887828424075
+Swin Transformer,340,Gaussian Noise,0.8141208626296597
+Swin Transformer,340,Gaussian Blur,0.8043337971029755
+Swin Transformer,329,Brightness,0.9743325484672155
+Swin Transformer,329,Gaussian Noise,0.7081258222261366
+Swin Transformer,329,Gaussian Blur,0.6666139667879128
+Swin Transformer,516,Brightness,0.9943165688209287
+Swin Transformer,516,Gaussian Noise,0.6177691115495322
+Swin Transformer,516,Gaussian Blur,0.5876308201216501
+Swin Transformer,132,Brightness,0.987901089999092
+Swin Transformer,132,Gaussian Noise,0.860065318236745
+Swin Transformer,132,Gaussian Blur,0.5628278358882551
+Swin Transformer,655,Brightness,0.9981342772724713
+Swin Transformer,655,Gaussian Noise,0.8642208799151501
+Swin Transformer,655,Gaussian Blur,0.8539639274989416
+Swin Transformer,373,Brightness,0.9983831022538959
+Swin Transformer,373,Gaussian Noise,0.863614408973068
+Swin Transformer,373,Gaussian Blur,0.6870078376306845
+Swin Transformer,546,Brightness,0.9996012221551807
+Swin Transformer,546,Gaussian Noise,0.8777680505048513
+Swin Transformer,546,Gaussian Blur,0.665061443099755
+Swin Transformer,115,Brightness,0.9977197851266095
+Swin Transformer,115,Gaussian Noise,0.837849265201035
+Swin Transformer,115,Gaussian Blur,0.7499008104542199
+Swin Transformer,447,Brightness,0.9980253359277323
+Swin Transformer,447,Gaussian Noise,0.9457397629659663
+Swin Transformer,447,Gaussian Blur,0.5321355905082505
+Swin Transformer,596,Brightness,0.9989444760561953
+Swin Transformer,596,Gaussian Noise,0.6977120877229703
+Swin Transformer,596,Gaussian Blur,0.5684535206508079
+Swin Transformer,613,Brightness,0.9926299561244973
+Swin Transformer,613,Gaussian Noise,0.7047797302353594
+Swin Transformer,613,Gaussian Blur,0.7488439782460614
+Swin Transformer,282,Brightness,0.9944660071521564
+Swin Transformer,282,Gaussian Noise,0.7351055458365526
+Swin Transformer,282,Gaussian Blur,0.8193996896988143
+Swin Transformer,63,Brightness,0.9799859117897705
+Swin Transformer,63,Gaussian Noise,0.814857418055566
+Swin Transformer,63,Gaussian Blur,0.6027532417443879
+Swin Transformer,549,Brightness,0.9974087248867123
+Swin Transformer,549,Gaussian Noise,0.9539677367139852
+Swin Transformer,549,Gaussian Blur,0.6954809088716857
+Swin Transformer,611,Brightness,0.9981207253292106
+Swin Transformer,611,Gaussian Noise,0.8739375520368065
+Swin Transformer,611,Gaussian Blur,0.6053209841911094
+Swin Transformer,428,Brightness,0.9972234276479146
+Swin Transformer,428,Gaussian Noise,0.87745392422845
+Swin Transformer,428,Gaussian Blur,0.6637605921711779
+Swin Transformer,417,Brightness,0.9868205632400195
+Swin Transformer,417,Gaussian Noise,0.9087092674275951
+Swin Transformer,417,Gaussian Blur,0.8122613862192612
+Swin Transformer,474,Brightness,0.9867015959949428
+Swin Transformer,474,Gaussian Noise,0.7875805802442588
+Swin Transformer,474,Gaussian Blur,0.8015740422996889
+Swin Transformer,301,Brightness,0.9961907709638695
+Swin Transformer,301,Gaussian Noise,0.8271994792201975
+Swin Transformer,301,Gaussian Blur,0.7332276286426096
+Swin Transformer,632,Brightness,0.9965683364545082
+Swin Transformer,632,Gaussian Noise,0.8694988272194621
+Swin Transformer,632,Gaussian Blur,0.8474118805617187
+Swin Transformer,464,Brightness,0.9945351447110203
+Swin Transformer,464,Gaussian Noise,0.8918672501570538
+Swin Transformer,464,Gaussian Blur,0.668154864972157
+Swin Transformer,45,Brightness,0.9962787420101895
+Swin Transformer,45,Gaussian Noise,0.9189994573322232
+Swin Transformer,45,Gaussian Blur,0.6911054810793398
+Swin Transformer,493,Brightness,0.9965211034107063
+Swin Transformer,493,Gaussian Noise,0.852418859157134
+Swin Transformer,493,Gaussian Blur,0.7671701260290142
+Swin Transformer,297,Brightness,0.9947611872586836
+Swin Transformer,297,Gaussian Noise,0.8516371226203622
+Swin Transformer,297,Gaussian Blur,0.7290490460219058
+Swin Transformer,577,Brightness,0.9952790180700775
+Swin Transformer,577,Gaussian Noise,0.5372015649229333
+Swin Transformer,577,Gaussian Blur,0.5150893745923097
+Swin Transformer,363,Brightness,0.9970731179643566
+Swin Transformer,363,Gaussian Noise,0.8872824245214891
+Swin Transformer,363,Gaussian Blur,0.8298836711512222
+Swin Transformer,153,Brightness,0.9977759644545927
+Swin Transformer,153,Gaussian Noise,0.8555082084888394
+Swin Transformer,153,Gaussian Blur,0.7052643763880098
+Swin Transformer,57,Brightness,0.9686755055037876
+Swin Transformer,57,Gaussian Noise,0.8379830281239911
+Swin Transformer,57,Gaussian Blur,0.523342911272989
+Swin Transformer,517,Brightness,0.9977122795467936
+Swin Transformer,517,Gaussian Noise,0.8883712508134994
+Swin Transformer,517,Gaussian Blur,0.7360516754030895
+Swin Transformer,492,Brightness,0.9972662560007767
+Swin Transformer,492,Gaussian Noise,0.8075920146683904
+Swin Transformer,492,Gaussian Blur,0.6465286063481679
+Swin Transformer,122,Brightness,0.986660065943219
+Swin Transformer,122,Gaussian Noise,0.674563093909017
+Swin Transformer,122,Gaussian Blur,0.7324310490663528
+Swin Transformer,243,Brightness,0.9969443629164455
+Swin Transformer,243,Gaussian Noise,0.6601061191375022
+Swin Transformer,243,Gaussian Blur,0.7106173523168761
+Swin Transformer,84,Brightness,0.9971395249534722
+Swin Transformer,84,Gaussian Noise,0.5566649569912602
+Swin Transformer,84,Gaussian Blur,0.7083244674232115
+Swin Transformer,62,Brightness,0.9834859571719489
+Swin Transformer,62,Gaussian Noise,0.7729621819987819
+Swin Transformer,62,Gaussian Blur,0.5414827608506049
+Swin Transformer,557,Brightness,0.9856602010848536
+Swin Transformer,557,Gaussian Noise,0.6028172580511796
+Swin Transformer,557,Gaussian Blur,0.7933174003313002

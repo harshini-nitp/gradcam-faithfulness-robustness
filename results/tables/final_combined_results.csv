@@ -1,0 +1,4 @@
+Model,Accuracy (%),Macro F1 (%),Deletion AUC,Insertion AUC,Brightness SSIM,Blur SSIM,Noise SSIM,Brightness Consistency (%),Blur Consistency (%),Noise Consistency (%)
+Partial ViT,95.22,92.71,0.46,0.3279,0.9144,0.5428,0.4342,100,96,98
+Deep-head ViT,94.06,91.81,0.4891,0.4219,0.8707,0.3563,0.3971,98,94,96
+Swin Transformer,97.1,97.3,0.673,0.6772,0.9923,0.5303,0.6569,100,88,78
